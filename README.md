@@ -31,13 +31,24 @@ This repository is designed for:
 
 ### 1. Resume Review
 
-Get structured feedback on:
+Get structured feedback on your current resume to improve your chances of getting shortlisted.
 
-- Resume formatting and readability  
-- Bullet point quality  
-- Project presentation  
-- ATS friendliness  
-- Skill alignment with target roles  
+This review focuses on: 
+
+- Resume structure and formatting
+- Bullet point clarity and impact
+- Project presentation and technical depth
+- ATS compatibility and keyword optimization
+- Skill alignment with your target role
+  
+You will receive:
+
+- Detailed feedback on what needs improvement
+- Suggestions for stronger bullet points
+- Recommendations for better resume positioning
+- Tips to improve shortlisting chances
+
+This service is ideal for students, fresh graduates, and early professionals who already have a resume but want to make it stronger and more effective.
 
 ---
 
@@ -60,22 +71,47 @@ You can simply **edit the template with your own information** and use it for jo
 
 ### 3. Interview Preparation
 
-Guidance on:
+Prepare for data, analytics, and business role interviews with structured guidance.
 
-- Resume-based questions  
-- Self-introduction  
-- HR and behavioral questions  
-- Basic analytics/data interview direction  
+This session focuses on:
+
+- Resume-based interview questions
+- Self-introduction and storytelling
+- Behavioral and HR questions
+- Project explanation techniques
+- Basic analytics and data interview direction
+
+You will learn how to:
+
+- Explain your projects confidently
+- Structure answers using clear frameworks
+- Handle common interview questions effectively
+- Present your skills in a professional way
+
+This guidance is especially helpful for students and freshers preparing for their first analytics or data role interviews. 
 
 ---
 
 ### 4. Career Development Guidance
 
-Help with:
+Get personalized career direction if you are confused about your path in data and analytics.
 
-- Choosing a direction in **data and analytics**  
-- Improving **LinkedIn profile visibility**  
-- Building a stronger **early-career profile**
+This guidance includes:
+
+- Understanding different roles in the data field
+- Data Analyst vs Data Scientist vs Data Engineer paths
+- Skills required for each role
+- Project building strategy
+- Resume and LinkedIn improvement advice
+
+During this call we will discuss:
+
+- Your current profile
+- Your learning progress
+- Your target role
+- A practical roadmap for the next steps
+
+This is useful for students, fresh graduates, and career switchers entering the data field.
 
 ---
 
