@@ -2,15 +2,15 @@
 
 # LinkedIn Career Services
 
-This repository contains resume templates, service details, and guidance material for students and early professionals.
-
+This repository contains resume review, service details, and guidance material for students and early professionals.
+Fill the form to book your 1:1 session:
+https://forms.gle/3RbUdZkXsyDmphoXA
 ---
 
 ## How to Request Help
 
 The following services are available:
 
-- Resume Template 
 - Resume Review  
 - Interview Preparation  
 - Career Development Guidance  
@@ -52,24 +52,7 @@ This service is ideal for students, fresh graduates, and early professionals who
 
 ---
 
-### 2. Resume Template
-
-Get access to a **clean, professional resume template** designed for students and early professionals.
-
-The template focuses on:
-
-- Clear and structured formatting
-- ATS-friendly layout
-- Strong project presentation
-- Clean skill section
-- Easy customization for different roles
-
-You can simply **edit the template with your own information** and use it for job applications.
- Role-specific positioning  
-
----
-
-### 3. Interview Preparation
+### 2. Interview Preparation
 
 Prepare for data, analytics, and business role interviews with structured guidance.
 
@@ -92,7 +75,7 @@ This guidance is especially helpful for students and freshers preparing for thei
 
 ---
 
-### 4. Career Development Guidance
+### 3. Career Development Guidance
 
 Get personalized career direction if you are confused about your path in data and analytics.
 
@@ -140,18 +123,6 @@ If you would like support, please share:
 - Please do **not share confidential or sensitive personal information publicly**.
 - This repository is intended for **guidance and educational support**.
 - All examples should use **dummy data before being made public**.
-
----
-
-## Planned Additions
-
-Future additions to this repository:
-
-- A **clean one-page resume template**
-- A **data analyst project bullet point bank**
-- A **resume checklist for freshers**
-- A **sample LinkedIn About section**
-- A **short interview preparation guide**
 
 ---
 
